@@ -104,6 +104,7 @@ st.sidebar.subheader('Coumpound annual growth return (CARG) from 2010')
 st.sidebar.write(CAGR(DF)*100)
 
 
+
 st.sidebar.subheader('Annual Volatility  from 2010')
 
 st.sidebar.write(volatility(DF)*100)
@@ -115,5 +116,5 @@ st.sidebar.write(max_dd(DF)*100)
 
 st.sidebar.subheader('Sharpe ratio')
 
-st.sidebar.write(sharpe(DF,8))
+st.sidebar.write(sharpe(DF,0.08))
 
