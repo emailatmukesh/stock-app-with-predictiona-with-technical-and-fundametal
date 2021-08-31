@@ -10,7 +10,7 @@ Data has taken from yfinance.
 
 I have used BOllinger Band.
 
-Fundamental---
+Fundamental analysis parameter---
 CARG value
 Volatility
 MAXIMUM DRAWDOWN
