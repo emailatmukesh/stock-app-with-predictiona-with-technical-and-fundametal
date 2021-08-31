@@ -1,0 +1,1 @@
+# stock-app-with-predictiona-with-technical-and-fundametal
